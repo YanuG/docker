@@ -23,7 +23,7 @@ exit
 
 Source roboboat_workspace. Remember to do that when first run script
 ```
-ource ~/roboboat_worksapce/deve/setup.bash
+source ~/roboboat_worksapce/devel/setup.bash
 ```
 
 Stopping all containers 
