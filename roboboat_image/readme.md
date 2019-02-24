@@ -8,18 +8,19 @@ Step 1. Generate ssh keys
 ```
 ssh-keygen
 ```
+Step 2. Add the public ssh key into your github/gitlab account. 
 
-Step 2. To build the container, type the following command in terminal 
+Step 3. To build the container, type the following command in terminal 
 ```
 docker build -t ros .
 ```
 
-Step 3. To run the image type into terminal. 
+Step 4. To run the image type into terminal. 
 ```
 docker run -it ros
 ```
 
-Step 4. To leave the container. Type in terminal
+Step 5. To leave the container. Type in terminal
 ```
 exit
 ```
