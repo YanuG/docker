@@ -4,7 +4,7 @@ This is a docker image for the Roboboat ROS workspace.
 
 ## How to Build and Run DockerFile
 
-Step 1. Add ssh keys 
+Step 1. Generate ssh keys 
 ```
 ssh-keygen
 ```
